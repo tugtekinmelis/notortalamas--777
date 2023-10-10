@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\4 tane not ortalaması-777\4 tane not ortalaması-777\bin\Debug\4 tane not ortalaması-777.exe.config
+C:\Users\User\source\repos\4 tane not ortalaması-777\4 tane not ortalaması-777\bin\Debug\4 tane not ortalaması-777.exe
+C:\Users\User\source\repos\4 tane not ortalaması-777\4 tane not ortalaması-777\bin\Debug\4 tane not ortalaması-777.pdb
+C:\Users\User\source\repos\4 tane not ortalaması-777\4 tane not ortalaması-777\obj\Debug\4 tane not ortalaması-777.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\4 tane not ortalaması-777\4 tane not ortalaması-777\obj\Debug\4 tane not ortalaması-777.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\4 tane not ortalaması-777\4 tane not ortalaması-777\obj\Debug\_4_tane_not_ortalaması_777.Form1.resources
+C:\Users\User\source\repos\4 tane not ortalaması-777\4 tane not ortalaması-777\obj\Debug\_4_tane_not_ortalaması_777.Properties.Resources.resources
+C:\Users\User\source\repos\4 tane not ortalaması-777\4 tane not ortalaması-777\obj\Debug\4 tane not ortalaması-777.csproj.GenerateResource.cache
+C:\Users\User\source\repos\4 tane not ortalaması-777\4 tane not ortalaması-777\obj\Debug\4 tane not ortalaması-777.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\4 tane not ortalaması-777\4 tane not ortalaması-777\obj\Debug\4 tane not ortalaması-777.exe
+C:\Users\User\source\repos\4 tane not ortalaması-777\4 tane not ortalaması-777\obj\Debug\4 tane not ortalaması-777.pdb
